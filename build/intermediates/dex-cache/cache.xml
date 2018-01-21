@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3abf8c3f0c0d6e3ff7cea534dc9bff9d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/50e6a662e100ff4208d6d9e0afdfb561/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.20/1ce9e25c74aade0aa039cce459f2906a8c8ffc8e/kotlin-stdlib-1.2.20.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1ce9e25c74aade0aa039cce459f2906a8c8ffc8e">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2e9e47dbd43a36b154f879e3d63138f4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/org/jetbrains/annotations/13.0/annotations-13.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/47fc4213e79f556098ce378656958d62/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/49c281aed4c97075e8bee825dca770f4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/73259a1e3c63f4031ff44b0ab7251e2d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/20cf90f00c171f680581b178190cf1d0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/90180c4498f697f486d5a56147ca4fac/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/583aa02f75afa9cdc4cf75609e731fb5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/2e36f86aa6fe0dd83c987a0d9aeca65b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/a412f81427d62f86c8e889047a83a3d8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/9fd94ca63c611f92441a5b8c2616fcb6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="601ebd8fa027a3dad924ffa1cb14689ced5aa436">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/71f9b306a221184afc35e203ea03d174/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/baedb0c0dca8642282880451392bace6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/57f30e97adcda9487e73884f8099b5e7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/dcd4484a24437e66b5c083eeed9921c4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/df8d1360b26c7013e55b218dc474533e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/d329c5e6927d2a41ea77ec0cd9f12892/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/4089d8c91b48d526b20e3a795337aca3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/e81b8328091fe835ed64e7ef19d6ea9e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/981a4d0a687e938617e37659a0c40d8a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ab8f698c04692de6c227fa6fc7c98b17/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7d42ae7a01cc8ea6a3acdd07cdf8d506/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/11ed6de2ae621c869f103d937f59cd67/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7c17c7d5fa11e6d750f38397308852b3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/9be9e73592f306a77fff9c9ec47d00a8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/8bb5bdb2c01cf0fe5d4ea74c8e189fde/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.8.0.aar/38a8b4ca0193b637987835ce2e7c6590/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ecd0a96f6bda796eeffafb066a93c84163b72234">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/739a271df698fd9d698be34ecbba2449/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/8357433d370428dde7aeb3bb44f35d08/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/58f6f5c00883bab09120ebdf7791cba1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.2.20/1ba23e74292b5af8980efde762fdd44fb61ddc2/kotlin-stdlib-jre7-1.2.20.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="01ba23e74292b5af8980efde762fdd44fb61ddc2">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/634d0d9eac5f41f0b0aadbf89c6956e7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d4f9e4b99661e71f0afa0c31f0f31c2b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.8.0.aar/23de88f34efc074b48673bb26dd8ea9a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cf42968b00f665dae552206e33705877b949b333">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/84cfcc72e6e2ec67fcc08a8eb1601370/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/70717454f6651fbfe6948ed9f7d1ec10/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/f013cc6914b95b149faa04167e47d082/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="601ebd8fa027a3dad924ffa1cb14689ced5aa436">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/07eb77fdb87ae4a0525a086b230b0af8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeandecian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5cb53ec8782aacd42743464f1fa296cc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/jeandecian/AndroidStudioProjects/undergroundCity/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+
+</items>
